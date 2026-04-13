@@ -1,0 +1,61 @@
+# -----------------------------
+# Go build artifacts
+# -----------------------------
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.coverprofile
+coverage.out
+
+# Go workspace / local tooling
+bin/
+dist/
+
+# -----------------------------
+# Environment and secrets
+# -----------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+
+# Local database/config dumps
+*.sql.tmp
+*.dump
+*.bak
+
+# -----------------------------
+# IDE and editor
+# -----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# -----------------------------
+# OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Project-local runtime files
+# -----------------------------
+*.log
+logs/
+tmp/
+
+# Keep session scratch files out of git
+*.session.sql
+
+# Codex local state
+.codex
