@@ -1,0 +1,12 @@
+{
+  "months": 6,
+  "source": "SEC_EDGAR/companyfacts",
+  "fetched_records": 85,
+  "upserted_records": 85,
+  "started_at": "2026-04-08T19:30:47.140230357Z",
+  "finished_at": "2026-04-08T19:30:49.122113085Z",
+  "min_records_target": 80,
+  "max_fallback_months": 120,
+  "final_months_window": 48,
+  "attempts": 4
+}

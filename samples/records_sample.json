@@ -1,0 +1,41 @@
+{
+  "count": 3,
+  "items": [
+    {
+      "Competencia": "2025-12-01T00:00:00Z",
+      "DataPublicacao": "2026-02-26T00:00:00Z",
+      "Demonstrativo": "DRE",
+      "CodigoConta": "ifrs-full:Revenue",
+      "DescricaoConta": "Revenue",
+      "Valor": "120345000000.0000",
+      "Moeda": "USD",
+      "Escala": "UNIDADE",
+      "Fonte": "SEC_EDGAR",
+      "FonteURL": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001119639.json"
+    },
+    {
+      "Competencia": "2025-12-01T00:00:00Z",
+      "DataPublicacao": "2026-02-26T00:00:00Z",
+      "Demonstrativo": "DRE",
+      "CodigoConta": "ifrs-full:ProfitLoss",
+      "DescricaoConta": "Profit (loss)",
+      "Valor": "-2450000000.0000",
+      "Moeda": "USD",
+      "Escala": "UNIDADE",
+      "Fonte": "SEC_EDGAR",
+      "FonteURL": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001119639.json"
+    },
+    {
+      "Competencia": "2025-12-01T00:00:00Z",
+      "DataPublicacao": "2026-02-26T00:00:00Z",
+      "Demonstrativo": "BALANCO",
+      "CodigoConta": "ifrs-full:Assets",
+      "DescricaoConta": "Assets",
+      "Valor": "410780000000.0000",
+      "Moeda": "USD",
+      "Escala": "UNIDADE",
+      "Fonte": "SEC_EDGAR",
+      "FonteURL": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001119639.json"
+    }
+  ]
+}
